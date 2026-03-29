@@ -27,13 +27,9 @@ To understand the concept and importance of digital literacy
 - To learn proper digital communication and email etiquette
 - To create awareness about cybercrime and online safety
 
-
-
-
-
 ## Repository Structure
 
-digital-literacy-project/
+digital-literacy-project   
 │   
 ├── README.md   
 ├── report/   
