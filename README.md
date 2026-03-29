@@ -33,33 +33,32 @@ To understand the concept and importance of digital literacy
 ## Repository Structure
 
 ```text
-digital-literacy-project
+Digital--literacy--project
 │
 ├── README.md
 ├── report/
-│   └── Project_Report.pdf
+│   └── Project Report.docx
 │
-├── task-1-presentation/
-│   └── infographic.png
+├── task 1 - Presentation/
+│   └── Infographic.png
 │
-├── task-2-portfolio/
-│   ├── github-profile.png
-│   ├── linkedin-profile.png
-│   ├── kaggle-profile.png
+├── task 2 - Portfolio/
+│   ├── Github-profile.png
+│   ├── Linkedin-profile.png
+│   ├── Kaggle-profile.png
 │
-├── task-3-platforms/
+├── task 3 - Platforms/
 │   ├── coding-platform.png
-│   ├── google-form.png
-│   ├── google-sheet.png
+│   ├── Google form.jpeg
 │
-├── task-4-email-etiquette/
-│   ├── email-1.txt
-│   ├── email-2.txt
-│   └── social-media-checklist.md
+├── task 4 - Email-Etiquette/
+│   ├── Email-1.txt
+│   ├── Email-2.txt
+│   └── Social-media-checklist.md
 │
 └── task-5-cybercrime/
-    ├── casestudy.md
-    └── prevention-checklist.md
+    ├── Casestudy.md
+    └── Prevention-checklist.md
 
 
 
