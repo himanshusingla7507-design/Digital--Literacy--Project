@@ -47,7 +47,7 @@ Created/updated student profiles on:
 
 * GitHub
 * LinkedIn
-* Kaggle
+* Stack Overflow
 
 Also created a GitHub profile README to begin building a professional digital presence.
 Folder: task 2 - portfolio
@@ -86,7 +86,7 @@ Tools and Platforms Used
 * Canva
 * GitHub
 * LinkedIn
-* Kaggle
+* Stack Overflow
 * HackerRank
 * Google Forms
 * Google Sheets
