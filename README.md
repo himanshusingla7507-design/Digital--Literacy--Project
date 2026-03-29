@@ -133,14 +133,14 @@ Through this project, I learned:
 * How to communicate professionally through email
 * How to identify and prevent common cybercrimes
 
-Final Submission
+# Final Submission
 
 This repository contains all the required files, screenshots, written content, and report for the CSE0001 Digital Literacy Project.
 
 
-Himanshu
-25MEI10102
-VIT BHOPAL UNIVERSITY
+* Himanshu
+* 25MEI10102
+* VIT BHOPAL UNIVERSITY
 
 
 
