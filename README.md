@@ -58,7 +58,6 @@ The project was designed around the role of a **Student Digital Ambassador**, wi
 
 ## Repository Structure
 
-```text
 digital-literacy-project/
 │
 ├── README.md
