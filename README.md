@@ -27,37 +27,6 @@ To understand the concept and importance of digital literacy
 - To learn proper digital communication and email etiquette
 - To create awareness about cybercrime and online safety
 
-
-# Repository Structure
-
-Digital--literacy--project
-│
-├── README.md
-├── report/
-│   └── Project Report.docx
-│
-├── task 1 - Presentation/
-│   └── Infographic.png
-│
-├── task 2 - Portfolio/
-│   ├── Github-profile.png
-│   ├── Linkedin-profile.png
-│   ├── Kaggle-profile.png
-│
-├── task 3 - Platforms/
-│   ├── coding-platform.png
-│   ├── Google form.jpeg
-│
-├── task 4 - Email-Etiquette/
-│   ├── Email-1.txt
-│   ├── Email-2.txt
-│   └── Social-media-checklist.md
-│
-└── task-5-cybercrime/
-    ├── Casestudy.md
-    └── Prevention-checklist.md
-    
-
 # Task Summary
 
 Task 1 – Digital Literacy Awareness Infographic
