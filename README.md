@@ -110,7 +110,8 @@ Solved one beginner-level coding challenge on HackerRank
 Created a Google Form titled “Digital Literacy Awareness Quiz”    
 Linked the form to Google Sheets for response collection    
 
-🔗 Google Form Link:    https://docs.google.com/forms/d/e/1FAIpQLSc032_EUutjlklsoXpIoZV228E6izQJg1KcuRMPfmlk06LNHA/viewform?usp=header    
+🔗 Google Form Link:      
+https://docs.google.com/forms/d/e/1FAIpQLSc032_EUutjlklsoXpIoZV228E6izQJg1KcuRMPfmlk06LNHA/viewform?usp=header      
 
 
 📁 Folder: task-3-platforms    
@@ -150,8 +151,10 @@ Microsoft Word
 🔗 Project Links         
 🌍 Professional Profiles   
 
-GitHub Profile:   https://github.com/himanshusingla7507-design/himanshusingla7507-design     
+GitHub Profile:   https://github.com/himanshusingla7507-design/himanshusingla7507-design 
+
 LinkedIn Profile: 
+
 Google Form:    https://docs.google.com/forms/d/e/1FAIpQLSc032_EUutjlklsoXpIoZV228E6izQJg1KcuRMPfmlk06LNHA/viewform?usp=header   
 Digital Literacy Awareness Quiz 
 
