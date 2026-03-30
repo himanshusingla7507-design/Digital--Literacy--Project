@@ -151,8 +151,8 @@ Microsoft Word
 🌍 Professional Profiles   
 
 GitHub Profile:     
-Himanshu's GitHub:
-LinkedIn Profile:                     
+Himanshu's GitHub:    
+LinkedIn Profile:                        
 
 Google Form:    
 Digital Literacy Awareness Quiz 
