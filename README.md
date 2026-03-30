@@ -135,6 +135,12 @@ Through this project, I learned:
 # Google Form link 
 https://docs.google.com/forms/d/e/1FAIpQLSc032_EUutjlklsoXpIoZV228E6izQJg1KcuRMPfmlk06LNHA/viewform?usp=header
 
+# Github Profile Link
+https://github.com/himanshusingla7507-design/himanshusingla7507-design
+
+# Linkdin Profile Link
+https://www.linkedin.com/in/himanshu-singla-94641637b/
+
 # Final Submission
 
 This repository contains all the required files, screenshots, written content, and report for the CSE0001 Digital Literacy Project.
