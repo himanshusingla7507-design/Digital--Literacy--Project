@@ -139,7 +139,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSc032_EUutjlklsoXpIoZV228E6izQJg1KcuRMP
 https://github.com/himanshusingla7507-design/himanshusingla7507-design
 
 # Linkdin Profile Link
-https://www.linkedin.com/in/himanshu-singla-94641637b/
+
 
 # Final Submission
 
