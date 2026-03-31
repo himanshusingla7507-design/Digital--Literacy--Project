@@ -153,7 +153,7 @@ Microsoft Word
 
 GitHub Profile:   https://github.com/himanshusingla7507-design/himanshusingla7507-design 
 
-LinkedIn Profile: 
+LinkedIn Profile: https://www.linkedin.com/in/himanshu-singla-94641637b/      
 
 Google Form:    https://docs.google.com/forms/d/e/1FAIpQLSc032_EUutjlklsoXpIoZV228E6izQJg1KcuRMPfmlk06LNHA/viewform?usp=header   
 Digital Literacy Awareness Quiz 
