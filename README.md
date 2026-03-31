@@ -77,6 +77,8 @@ digital-literacy-project/
 
 ✅ Task Summary   
 
+📁 Folder: task-1-presentation        
+
 🎨 Task 1 – Digital Literacy Awareness Infographic    
 
 Created a one-page infographic using Canva on the topic “Digital Literacy for College Students”.   
@@ -88,7 +90,7 @@ Safe internet practices
 Professional online presence    
 Email etiquette    
 
-📁 Folder: task-1-presentation    
+📁 Folder: task-2-portfolio    
 
 💼 Task 2 – Build Your Student Digital Portfolio   
 
@@ -100,7 +102,7 @@ Stack Overflow
 
 Also designed a GitHub Profile README to start building a professional digital identity.    
 
-📁 Folder: task-2-portfolio    
+📁 Folder: task-3-platforms      
 
 💻 Task 3 – Explore Coding & Collaboration Platforms   
 
@@ -113,8 +115,7 @@ Linked the form to Google Sheets for response collection
 🔗 Google Form Link:      
 https://docs.google.com/forms/d/e/1FAIpQLSc032_EUutjlklsoXpIoZV228E6izQJg1KcuRMPfmlk06LNHA/viewform?usp=header      
 
-
-📁 Folder: task-3-platforms    
+📁 Folder: task-4-email-etiquette 
 
 📧 Task 4 – Draft a Professional Email & Etiquette Guide    
 
@@ -124,7 +125,7 @@ A professional email to a professor requesting an assignment extension
 A professional email to an internship coordinator     
 A Social Media Do’s and Don’ts Checklist    
 
-📁 Folder: task-4-email-etiquette    
+📁 Folder: task-5-cybercrime      
 
 🔐 Task 5 – Cybercrime Awareness Case Study & Prevention Guide    
 
@@ -133,7 +134,6 @@ Created:
 A case study on UPI / Online Payment Fraud     
 A “Stay Safe Online” prevention checklist for students   
 
-📁 Folder: task-5-cybercrime    
 
 🛠️ Tools and Platforms Used    
 
